@@ -1,6 +1,6 @@
 # Maclane Zich
 
-B.S.E. in Artificial Intelligence at Penn Engineering, class of 2030. I build health software and ship it: two iOS apps on the App Store, plus LLM research tooling at Northwestern's Institute for AI in Medicine.
+B.S.E. in Artificial Intelligence at Penn Engineering.
 
 ## Apps
 
@@ -16,7 +16,6 @@ Prototype iOS app that ranks food and lifestyle candidates associated with GI sy
 ## Research and work
 
 - **Northwestern Medicine, Institute for AI in Medicine** (2026 to present). PaCo, a FastAPI voice AI platform for medication adherence research. Built a failover router across three LLM vendors that cut inference cost 70%, and the QUILAM scoring pass over 24 simulated conversations. Manuscript co-author. Lab code.
-- **Penn Radiology, Rajapakse lab** (2026 to present). PyTorch knee MRI landmark model on 140 patients. Fixed a shared-state bug in the lab's TypeScript annotation app that recovered 756 lost measurements. Lab code, private.
 - **PsychNow** (2025 intern). TypeScript and Playwright patient-simulation test suite. Employer code.
 - **Chicago Youth Advancement Initiative**. Co-founded a 501(c)(3) STEM nonprofit for ages 9 to 12. 400+ teaching hours, adopted by Chicago Public Schools.
 
