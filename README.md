@@ -1,11 +1,11 @@
 # Maclane Zich
 
-B.S.E. in Artificial Intelligence at Penn Engineering.
+B.S.E. in Artificial Intelligence & Math at Penn Engineering.
 
 ## Apps
 
 **Nárm** · [App Store](https://apps.apple.com/us/app/narm-clothing-fabric-scanner/id6769256623)
-Scan a garment's care label or fabric and get an analysis personalized to your skin conditions, allergies and climate. Flutter, Gemini 2.5 Flash-Lite through Firebase Vertex AI, Firestore, RevenueCat, Cloud Functions. Technical co-founder and sole engineer. Code is private.
+Scan a garment's care label or fabric and get an analysis personalized to your skin conditions, allergies and climate. Flutter, Gemini through Firebase Vertex AI, Firestore, RevenueCat, Cloud Functions. Technical co-founder and sole engineer. Code is private.
 
 **HeadacheWise** · [App Store](https://apps.apple.com/us/app/headachewise/id6670711602)
 Migraine tracker with an on-device association engine (ranks co-occurring combinations within logged episodes by lift) and Gemini-written insights. About 35k lines of Dart. 180+ users, 2,000+ logged episodes. Congressional App Challenge winner, demoed at the U.S. Capitol. Founder, solo build.
