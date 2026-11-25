@@ -5,13 +5,13 @@ B.S.E. in Artificial Intelligence & Math at Penn Engineering.
 ## Apps
 
 **Nárm** · [App Store](https://apps.apple.com/us/app/narm-clothing-fabric-scanner/id6769256623)
-Scan a garment's care label or fabric and get an analysis personalized to your skin conditions, allergies and climate. Flutter, Gemini through Firebase Vertex AI, Firestore, RevenueCat, Cloud Functions. Technical co-founder and sole engineer. Code is private.
+Scan a garment's care label or fabric and get an analysis personalized to your skin conditions, allergies and climate. Flutter, Gemini through Firebase Vertex AI, Firestore, RevenueCat, Cloud Functions. I am the technical Co-Founder and sole engineering. Code is all private.
 
 **HeadacheWise** · [App Store](https://apps.apple.com/us/app/headachewise/id6670711602)
-Migraine tracker with an on-device association engine (ranks co-occurring combinations within logged episodes by lift) and Gemini-written insights. 180+ users, 2,000+ logged episodes. Congressional App Challenge winner, presented at the U.S. Capitol. Founder, solo build.
+Migraine tracker with an on-device association engine and Gemini-based insights. 180+ users, 2,000+ logged episodes. Congressional App Challenge winner, presented at the U.S. Capitol. Founder, solo build.
 
 **culprit** · [repo](https://github.com/MaclaneZich/culprit)
-Prototype iOS app that ranks food and lifestyle candidates associated with GI symptoms, with a test that fails the build if the UI copy turns causal. Not shipped.
+Prototype iOS app that ranks food and lifestyle candidates associated with GI symptoms. Not shipped yet.
 
 ## Research and work
 
