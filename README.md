@@ -15,7 +15,7 @@ Prototype iOS app that ranks food and lifestyle candidates associated with GI sy
 
 ## Research and work
 
-- **Northwestern Medicine, Institute for AI in Medicine** (2026 to present). PaCo, a FastAPI voice AI platform for medication adherence research. Built a failover router across three LLM vendors that cut inference cost 70%, and the QUILAM scoring pass over 24 simulated conversations. Manuscript co-author. Lab code.
+- **Northwestern Medicine, Institute for AI in Medicine** (2026 to present). PaCo, a FastAPI voice AI platform for medication adherence research. Built a failover router across three LLM vendors that cut inference cost 70%, and a scoring pass that rates each conversation for adherence. Manuscript co-author. Lab code.
 - **PsychNow** (2025 intern). TypeScript and Playwright patient-simulation test suite. Employer code.
 - **Chicago Youth Advancement Initiative**. Co-founded a 501(c)(3) STEM nonprofit for ages 9 to 12. 400+ teaching hours, adopted by Chicago Public Schools.
 
